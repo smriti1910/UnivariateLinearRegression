@@ -17,7 +17,7 @@ image
 Program:
 /*
 ## Program to implement univariate Linear Regression to fit a straight line using least squares.
-Developed by:SMRITI .B 
+/*Developed by:SMRITI .B 
 RegisterNumber:  212221040156
 */
 import numpy as np
