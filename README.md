@@ -57,4 +57,4 @@ plt.show()
 print(f"Slope (m): {slope_m}")
 print(f"Intercept (b): {intercept_b}")
 ## Output:
-![Output](https://github.com/smriti1910/UnivariateLinearRegression/assets/133334803/93d698d8-a54b-42c5-817c-c15b09a6a46f)
+![OUTPUT](https://github.com/smriti1910/UnivariateLinearRegression/assets/133334803/3bffbcab-c60c-4d3f-b986-29b9a2c3896c)
