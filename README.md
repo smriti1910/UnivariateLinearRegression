@@ -17,12 +17,15 @@ image
 Program:
 
 ## Program to implement univariate Linear Regression to fit a straight line using least squares.
+```
 /*
 
 Developed by: SMRITI .B
 RegisterNumber: 212221040156
 */
-##
+```
+```
+
 import numpy as np
 import matplotlib.pyplot as plt
 num_points=int(input("Enter the number of points"))
@@ -56,6 +59,7 @@ plt.show()
 
 print(f"Slope (m): {slope_m}")
 print(f"Intercept (b): {intercept_b}")
+```
 ## Output:
 ![OUTPUT](https://github.com/smriti1910/UnivariateLinearRegression/assets/133334803/3bffbcab-c60c-4d3f-b986-29b9a2c3896c)
 
